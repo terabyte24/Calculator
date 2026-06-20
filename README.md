@@ -2,13 +2,9 @@
 
 A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations through a clean and user-friendly interface.
 
-## 🚀 Live Demo
 
-🔗 https://calculator-ruby-pi.vercel.app
 
-## 📸 Preview
 
-![Calculator Preview](https://via.placeholder.com/800x400?text=Calculator+Preview)
 
 ## ✨ Features
 
